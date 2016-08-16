@@ -1,0 +1,23 @@
+{
+  "name": "redux-todo",
+  "version": "1.0.0",
+  "description": "A todo app created with redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengyangtuo/redux-todo.git"
+  },
+  "keywords": [
+    "redux",
+    "react"
+  ],
+  "author": "tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengyangtuo/redux-todo/issues"
+  },
+  "homepage": "https://github.com/pengyangtuo/redux-todo#readme"
+}
